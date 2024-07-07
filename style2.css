@@ -59,7 +59,9 @@ body{
     font-size: 20px;
     color: #16a085;
     font-weight: 400;
-    margin-left: 238px;
+}
+#pssw{
+    margin-left: 200px;
 }
 .login{
     height: 40px;
